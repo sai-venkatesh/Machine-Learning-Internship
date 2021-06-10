@@ -69,6 +69,7 @@ In this step we will divide the data into inputs and outputs. And then we will d
    # spliting the dataset into dependent and independent values by using  "iloc" Function* 
    X = data.iloc[:, :-1].values  
    Y = data.iloc[:, 1].values
+   
    # training and testing the dataset using "train-test-split" function.
    from sklearn.model_selection import train_test_split  
    X_train, X_test, Y_train, Y_test = train_test_split(X, Y,test_size=0.2, random_state=0)
@@ -79,6 +80,7 @@ In this step we will divide the data into inputs and outputs. And then we will d
 
    from sklearn.linear_model import LinearRegression
    model = LinearRegression() 
+   
    # Fitting the model
    model.fit(X_train, Y_train)
    LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None, normalize=False)
