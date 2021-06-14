@@ -12,9 +12,9 @@ Step 2 - Importing the dataset
 Step 3 - Visualizing the dataset
 Step 4 - Data preparation
 Step 5 - Training the algorithm
-Step 6- Visualizing the model
-Step 7- Making predcitions
-Step 8- Evaluating the model
+Step 6 - Visualizing the model
+Step 7 - Making predcitions
+Step 8 - Evaluating the model
 
 
 # Step 1 - Importing the dataset
