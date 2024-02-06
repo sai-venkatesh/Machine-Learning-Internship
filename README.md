@@ -1,4 +1,4 @@
-# Task-1--sparks-foundation
+# Machine Learning Internship-- The sparks foundation
 
 Data Science & Business Analytics Internship at The Sparks Foundation
 TASK 1 - Prediction using Supervised Machine Learning
